@@ -17,3 +17,13 @@
     <td><img src="images/origin4.JPG" width="300px"><br><p align="center">การเดินสายไฟ</p></td>
  </tr>
 </table>
+
+ซึ่งอุปกรณ์ที่ใช้คือ <br>
+Arduino UNO R3 <br>
+มอเตอร์ DC gear motor อัตราทด 1:48 <br>
+L298N Motor Driver Module <br>
+MPU6050 <br>
+ล้อสองข้าง <br>
+7.4V Li-ion Battery <br>
+สาย Jumper <br>
+3D Printed Body <br>
