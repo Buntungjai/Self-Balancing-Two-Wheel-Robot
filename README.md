@@ -9,11 +9,11 @@
 
 <table border="0">
  <tr>
-    <td><img src="images/origin1.jpg" width="300px"><br><p align="center">มุมมองด้านหน้า</p></td>
-    <td><img src="images/origin2.jpg" width="300px"><br><p align="center">การเดินสายไฟ</p></td>
+    <td><img src="images/origin1.JPG" width="300px"><br><p align="center">มุมมองด้านหน้า</p></td>
+    <td><img src="images/origin2.JPG" width="300px"><br><p align="center">การเดินสายไฟ</p></td>
  </tr>
  <tr>
-    <td><img src="images/origin.jpg" width="300px"><br><p align="center">ตำแหน่งเซนเซอร์</p></td>
-    <td><img src="images/origin4.jpg" width="300px"><br><p align="center">ตอนทดสอบวิ่ง</p></td>
+    <td><img src="images/origin.JPG" width="300px"><br><p align="center">ตำแหน่งเซนเซอร์</p></td>
+    <td><img src="images/origin4.JPG" width="300px"><br><p align="center">ตอนทดสอบวิ่ง</p></td>
  </tr>
 </table>
