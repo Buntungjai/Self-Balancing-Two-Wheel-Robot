@@ -2,6 +2,8 @@
 
 ![Self Balancing Demo](images/selfBalancingRobot.gif)
 
+https://youtu.be/95e5Ph7vr44
+
 ก่อนที่จะได้หุ่นยนต์ทรงตัวเองนี้ ได้ทำหุ่นยนต์ต้นแบบมาก่อน <br>
 ซึ่งได้แรงบันดาลใจจาก https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot
 
@@ -27,3 +29,5 @@ MPU6050 <br>
 7.4V Li-ion Battery <br>
 สาย Jumper <br>
 3D Printed Body <br>
+<br>
+สุดท้ายรื้อทำใหม่
