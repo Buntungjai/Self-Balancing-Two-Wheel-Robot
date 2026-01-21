@@ -60,4 +60,24 @@ LM2596 แปรงแรงดัน DC to DC<br>
  </tr>
 </table>
 
+<table border="0">
+ <tr>
+    <td><img src="images/selfB5.JPG" width="300px"><br><p align="center">ตำแหน่งการเจาะรู </p></td>
+    <td><img src="images/selfB6.JPG" width="300px"><br><p align="center">ต่อชั้น 2</p></td>
+ </tr>
+ <tr>
+    <td><img src="images/selfB7.JPG" width="300px"><br><p align="center">ต่อชั้น 3</p></td>
+    <td><img src="images/selfB8.JPG" width="300px"><br><p align="center">ใส่ล้อและมอเตอร์</p></td>
+ </tr>
+</table>
 
+<table border="0">
+ <tr>
+    <td><img src="images/selfB9.JPG" width="300px"><br><p align="center">ทดลองวางอุปกรณ์ </p></td>
+    <td><img src="images/selfB10.JPG" width="300px"><br><p align="center">ทำสวิตช์ เปิด ปิด</p></td>
+ </tr>
+ <tr>
+    <td><img src="images/selfB11.JPG" width="300px"><br><p align="center">เดินสายไฟ</p></td>
+    <td><img src="images/selfB12.JPG" width="300px"><br><p align="center">ต่อสาย jumper</p></td>
+ </tr>
+</table>
