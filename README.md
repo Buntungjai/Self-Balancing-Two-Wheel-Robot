@@ -32,11 +32,29 @@ MPU6050 <br>
 <br>
 สุดท้ายรื้อทำใหม่...
 <br>
-<h3> อุปกรณ์ที่เลือกใช้ใหม่ </h3>
+<h3> มีบางอุปกรณ์ที่เลือกใช้ใหม่ </h3>
 โครงทำจาก แผ่นอะคลิริค 10x10 มีประมาณ 6แผ่น <br>
 มอเตอร์ JGA25-370 DC6V170RPM<br>
 ล้อขนาด 6.5 cm (เส้นผ่านศูนย์กลางรวมยางแล้ว)<br>
 ไดเวอร์ TB6612FNG<br>
-แบตเตอรี่์ li-ion 18650 2S+BMS 7.4V 2600mAh<br>
-เซนเซอร์ mpu6050 <br>
+แบตเตอรี่์ li-ion 18650 2S+BMS 7.4V 2600mAh (เหมือนเดิม)<br>
+เซนเซอร์ mpu6050 (เหมือนเดิม) <br>
+LM2596 <br>
+
+เลือกโครงใหม่ ให้กว้างขึ้นเพื่อการทรงตัวที่ง่ายขึ้น<br>
+เลือกมอเตอร์ที่ตอบสนองไวขึ้น มี encoder จับระยะได้<br>
+เลือกมอเตอร์ไดเวอร์ใหม่ รุ่นที่กินไฟน้อยลง ความร้อนน้อยลง จ่ายกระแสได้ดึขึ้น<br>
+ปรับ step down ให้เป็นตัวที่จ่ายกระแสได้ดี<br>
+
+<table border="0">
+ <tr>
+    <td><img src="images/selfB1.JPG" width="300px"><br><p align="center">มุมมองด้านหน้า</p></td>
+    <td><img src="images/selfB2.JPG" width="300px"><br><p align="center">ใช้ปุ่มจูน PID</p></td>
+ </tr>
+ <tr>
+    <td><img src="images/selfB3.JPG" width="300px"><br><p align="center">ใช้ LED บอกสถานะ</p></td>
+    <td><img src="images/selfB4.JPG" width="300px"><br><p align="center">การเดินสายไฟ</p></td>
+ </tr>
+</table>
+
 
