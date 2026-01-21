@@ -28,7 +28,8 @@ MPU6050 <br>
 ล้อสองข้าง <br>
 7.4V Li-ion Battery <br>
 สาย Jumper <br>
-3D Printed Body <br>
+แผ่นอะคลิลิคแบบไม่สมดุล(จริงๆเป็นถาดวางของ) <br>
+step down dc to dc <br>
 <br>
 สุดท้ายรื้อทำใหม่...
 <br>
@@ -48,12 +49,12 @@ LM2596 <br>
 
 <table border="0">
  <tr>
-    <td><img src="images/selfB1.JPG" width="300px"><br><p align="center">มุมมองด้านหน้า</p></td>
-    <td><img src="images/selfB2.JPG" width="300px"><br><p align="center">ใช้ปุ่มจูน PID</p></td>
+    <td><img src="images/selfB1.JPG" width="300px"><br><p align="center">อะคลิลิค 10x10 </p></td>
+    <td><img src="images/selfB2.JPG" width="300px"><br><p align="center">คัตเตอร์กรีดและหัก</p></td>
  </tr>
  <tr>
-    <td><img src="images/selfB3.JPG" width="300px"><br><p align="center">ใช้ LED บอกสถานะ</p></td>
-    <td><img src="images/selfB4.JPG" width="300px"><br><p align="center">การเดินสายไฟ</p></td>
+    <td><img src="images/selfB3.JPG" width="300px"><br><p align="center">จัดตำแหน่งชั้น 1</p></td>
+    <td><img src="images/selfB4.JPG" width="300px"><br><p align="center">ยึดน๊อต</p></td>
  </tr>
 </table>
 
