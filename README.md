@@ -21,7 +21,7 @@ https://youtu.be/95e5Ph7vr44
 </table>
 
 <p align="center">
-  <img src="images/circuitVersion1.png" width="400">
+  <img src="images/circuitVersion1.png" width="800">
 </p>
 
 ซึ่งอุปกรณ์ที่ใช้คือ <br>
@@ -106,3 +106,6 @@ LM2596 แปรงแรงดัน DC to DC รองรับกระแส
     <td><img src="images/selfB12.JPG" width="300px"><br><p align="center">ต่อสาย jumper</p></td>
  </tr>
 </table>
+<p align="center">
+  <img src="images/circuitVersion2.png" width="800">
+</p>
