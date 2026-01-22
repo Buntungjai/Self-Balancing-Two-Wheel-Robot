@@ -7,6 +7,11 @@ https://youtu.be/95e5Ph7vr44
 ก่อนที่จะได้หุ่นยนต์ทรงตัวเองนี้ ได้ทำหุ่นยนต์ต้นแบบมาก่อน <br>
 ซึ่งได้แรงบันดาลใจจาก https://circuitdigest.com/microcontroller-projects/arduino-based-self-balancing-robot
 
+## 🙏 Acknowledgements
+This project utilizes the following open-source libraries:
+
+I2Cdevlib by Jeff Rowberg - Special thanks for his incredible work on the MPU6050 DMP (Digital Motion Processor) integration, which made the precise tilt estimation in this project possible.
+
 โดยหน้าตาหุ่นต้นแบบจะ ทรงตัวไม่ได้และสายไฟ ยังยุ่งเหยิงดังรูปภาพด้านล่าง
 
 <table border="0">
@@ -115,3 +120,5 @@ LM2596 แปรงแรงดัน DC to DC รองรับกระแส
   <img src="images/encoder.jpg" width="500">
 </p>
 ภาพตัวอย่างลำดับพิน ซึ่งจริงๆใช้ 5v สำหรับ encoder
+
+
