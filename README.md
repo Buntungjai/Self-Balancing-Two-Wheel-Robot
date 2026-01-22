@@ -114,3 +114,4 @@ LM2596 แปรงแรงดัน DC to DC รองรับกระแส
 <p align="center">
   <img src="images/encoder.jpg" width="500">
 </p>
+ภาพตัวอย่างลำดับพิน ซึ่งจริงๆใช้ 5v สำหรับ encoder
