@@ -113,7 +113,7 @@ LM2596 แปรงแรงดัน DC to DC รองรับกระแส
 
 สำหรับการต่อ encoder มีการปรับพินจากภาพด้านบน และมีการต่อเพิ่มจากมอเตอร์ทั้งสองอย่างล่ะ 4 เส้น คือ Vcc, pulseA,pulseB ,GND ซึ่งส่วนปลายซ้ายขวาของ connector คือ M+ M- ที่ต่อเข้ากับมอเตอร์ไดเวอร์
 <p align="center">
-  <img src="images/encoder.jpg" width="500">
+  <img src="images/encoder.jpg" width="300">
 </p>
 ภาพตัวอย่างลำดับพิน ซึ่งจริงๆใช้ 5v สำหรับ encoder
 
