@@ -20,6 +20,10 @@ https://youtu.be/95e5Ph7vr44
  </tr>
 </table>
 
+<p align="center">
+  <img src="images/circuitVersion1.png" width="400">
+</p>
+
 ซึ่งอุปกรณ์ที่ใช้คือ <br>
 Arduino UNO R3 <br>
 มอเตอร์ DC gear motor อัตราทด 1:48 <br>
@@ -30,6 +34,7 @@ MPU6050 <br>
 สาย Jumper <br>
 แผ่นอะคลิลิคแบบไม่สมดุล(จริงๆเป็นถาดวางของ) <br>
 step down dc to dc <br>
+
 <br>
 สุดท้ายเลยต้อง ออกแบบใหม่
 <br>
